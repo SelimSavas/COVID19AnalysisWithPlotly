@@ -53,3 +53,6 @@ https://plotly.com/python/
 
 5 - En çok hasta barındıran 15 şehirin ölüm oranlarına yüzdelik şekilde bakmak (Pie Charts)
 
+## Veri
+
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
